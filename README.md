@@ -2,7 +2,7 @@
 
 JavaScript Counter App by Francesco Galario for start2impact.it
 
-First JavaScript App, a simple counter. My website: https://neguy7.github.io/
+First JavaScript App, a simple counter.
 
 ## Link: 
 
