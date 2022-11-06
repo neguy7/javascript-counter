@@ -26,5 +26,5 @@ The user can:
 
 ## Author:
 Francesco Galario, Front-End Developer based in Italy.
-Website: https://neguy7.github.io/
-Linkedin profile: https://it.linkedin.com/in/francesco-galario
+- Website: https://neguy7.github.io/
+- Linkedin profile: https://it.linkedin.com/in/francesco-galario
